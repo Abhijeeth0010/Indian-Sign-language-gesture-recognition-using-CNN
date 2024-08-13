@@ -5,6 +5,8 @@ This repository contains the code for an Indian Sign Language (ISL) gesture reco
 Data Set-----
 https://www.kaggle.com/datasets/vaishnaviasonawane/indian-signlanguage-
 dataset 
+![Screenshot 2024-07-20 125537](https://github.com/user-attachments/assets/b8ea173e-dac8-4051-b999-8c4e100f9ab9)
+
 ![image](https://github.com/user-attachments/assets/df36992f-65fc-4603-ba19-ec973760aa66)
 
 
