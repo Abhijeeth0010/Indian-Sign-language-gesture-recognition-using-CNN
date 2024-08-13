@@ -6,13 +6,13 @@ Data Set-----
 https://www.kaggle.com/datasets/vaishnaviasonawane/indian-signlanguage-
 dataset 
 ![Screenshot 2024-07-20 125537](https://github.com/user-attachments/assets/b8ea173e-dac8-4051-b999-8c4e100f9ab9)
-
 ![image](https://github.com/user-attachments/assets/df36992f-65fc-4603-ba19-ec973760aa66)
 
 
 IMAGE PROCESSING ----
 ![IMAGE_PROCESSING](https://github.com/user-attachments/assets/c3861a59-d505-45df-b942-f6c9a0ede1f0)
 ![Screenshot 2024-07-09 160332](https://github.com/user-attachments/assets/78f14945-61e4-4ec1-a4f6-f365edf2cef0)
+
 
 RESNET FILE -----
 Accuracy and Plotting accuracy on graph--
